@@ -15,7 +15,7 @@ html,body{
 
 /*--- Header Part Starts Her ---*/
 .header{
-	background:url(../images/banner.jpg)no-repeat;
+	background:url(http://7xojoy.com1.z0.glb.clouddn.com/banner.jpg)no-repeat;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -117,7 +117,7 @@ ul.hoby li{
 ul.hoby li i{
 	width:85px;
 	height:85px;
-	background:url(../images/img-sprite.png)no-repeat;
+	background:url(http://7xojoy.com1.z0.glb.clouddn.com/img-sprite.png)no-repeat;
 	cursor:pointer;
 	display: block;
 }
@@ -220,7 +220,7 @@ span.devide-line{
 label.bag{
 	width:32px;
 	height:32px;
-	background:url(../images/bag.png)no-repeat;
+	background:url(http://7xojoy.com1.z0.glb.clouddn.com/bag.png)no-repeat;
 	display: initial;
 	position:absolute;
 	top:5em;
@@ -229,7 +229,7 @@ label.bag{
 label.book{
 	width:32px;
 	height:32px;
-	background:url(../images/book.png)no-repeat;
+	background:url(http://7xojoy.com1.z0.glb.clouddn.com/book.png)no-repeat;
 	display: initial;
 	position:absolute;
 	top:5em;
@@ -243,7 +243,7 @@ label.book{
 	left: 43.255em;
 }
 .exp-devide-grid-right:before{
-	content:url(../images/sec-d.png)no-repeat 0px 0px;
+	content:url(http://7xojoy.com1.z0.glb.clouddn.com/sec-d.png)no-repeat 0px 0px;
 	position:relative;
 	left:-3em;
 	top:1.5em;
@@ -277,7 +277,7 @@ label.book{
 	left: 5.8em;
 }
 .exp-devide-grid-left:before{
-	content:url(../images/sec-d.png)no-repeat 0px 0px;
+	content:url(http://7xojoy.com1.z0.glb.clouddn.com/sec-d.png)no-repeat 0px 0px;
 	position:relative;
 	left:3em;
 	top:1.5em;
@@ -291,7 +291,7 @@ label.book{
 	left: 43.255em;
 }
 .exp-devide-grid-rightb:before{
-	content:url(../images/sec-d.png)no-repeat 0px 0px;
+	content:url(http://7xojoy.com1.z0.glb.clouddn.com/sec-d.png)no-repeat 0px 0px;
 	position:relative;
 	left:-3em;
 	top:1.5em;
@@ -660,7 +660,7 @@ i.twit{
 .contact-column i{
 	width:80px;
 	height:80px;
-	background:url(../images/contact-icon.png)no-repeat;
+	background:url(http://7xojoy.com1.z0.glb.clouddn.com/contact-icon.png)no-repeat;
 	display: inline-block;
 }
 .contact-column i.loc{
